@@ -1,39 +1,25 @@
-<h1 align="center">Hi 👋, I'm Shubhadip Bhowmik</h1>
-<h3 align="center">🎓A BCA Junior at CHANDIGARH UNIVERSITY</h3>
+# Namaste Programmers 👨‍💻
+🌱 I’m currently learning DATA STRUCTURES AND ALGORITHM'S.<br><br>👯 I’m looking for projects in Frontend Development<br><br>📝 I regularly write blogs on Programming and Education<br><br>💬 Discuss about Code & Community<br><br>📫 How to reach me shubhadipbhowmik02@gmail.com<br><br>⚡ Fun Fact: I am Ambivert
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadipbhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="subhadipbhowmik" /> </p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhadipbhowmik" alt="subhadipbhowmik" /></a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=subhadipbhowmik&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=subhadipbhowmik&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadipbhowmik&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/myselfshubhadip" target="blank"><img src="https://img.shields.io/twitter/follow/myselfshubhadip?logo=twitter&style=for-the-badge" alt="myselfshubhadip" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subhadipbhowmik&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHM'S.**
 
-- 👯 I’m looking to collaborate on **projects including HTML,CSS and Javascript.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=subhadipbhowmik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📝 I regularly write articles on [examhunt.in](examhunt.in)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhadipbhowmik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhadip-bhowmik) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shubhadipbhowmik) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shubhadip_bhaumik) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/SHUBHADIP-BHOWMIK-6) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20064469) 
 
-- 💬 Ask me about **HTML, CSS, JS, C**
+[![](https://visitcount.itsvg.in/api?id=subhadipbhowmik&icon=8&color=6)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **shubhadipbhowmik02@gmail.com**
-
-- ⚡ Fun fact **I spend almost 12 hours listening Music.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shubhadipbhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shubhadipbhowmik" height="30" width="40" /></a>
-<a href="https://twitter.com/myselfshubhadip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myselfshubhadip" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhadip-bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhadip-bhowmik" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20064469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20064469" height="30" width="40" /></a>
-<a href="https://fb.com/shubhadip.bhaumik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhadip.bhaumik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhadipbhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhadipbhowmik" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhadipbhowmik&show_icons=true&locale=en&layout=compact" alt="subhadipbhowmik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhadipbhowmik&show_icons=true&locale=en" alt="subhadipbhowmik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhadipbhowmik&" alt="subhadipbhowmik" /></p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shubhadip_bhaumik) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/shubhadip_bhowmik) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shubhadipbhowmik) 
