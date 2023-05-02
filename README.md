@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhadip Bhowmik</h1>
-<h3 align="center">🎓A BCA Junior at CHANDIGARHUNIVERSITY</h3>
+<h3 align="center">🎓A BCA Junior at CHANDIGARH UNIVERSITY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadipbhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="subhadipbhowmik" /> </p>
 
