@@ -1,4 +1,5 @@
-![shubhadip-bhowmik-git-profile](https://github.com/subhadipbhowmik/subhadipbhowmik/assets/57017965/c0ce6e39-3185-4cc0-90f9-a7ef74dbe89d)
+![shubhadip-bhowmik-github-profile](https://github.com/subhadipbhowmik/subhadipbhowmik/assets/57017965/814e8cff-ddf5-4ce0-86f5-f74454e78a79)
+
 # Namaste Programmers 👨‍💻
 🌱 I’m currently learning DATA STRUCTURES AND ALGORITHM'S.<br>👯 I’m looking for projects in Frontend Development<br>📝 I regularly write blogs on Programming and Education<br>💬 Discuss about Code & Community<br>📫 How to reach me shubhadipbhowmikdev@gmail.com<br>⚡ Fun Fact: I am an Experimental Cook 😀
 
