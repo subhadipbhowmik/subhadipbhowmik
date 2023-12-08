@@ -17,9 +17,7 @@ Welcome, fellow code enthusiasts, to my humble collection of brain-boggling blog
 
 ---
 
-<a name="article-1"></a>
-
-## 🚀 Google's most powerful AI : Gemini
+## 🚀 Google's most powerful AI : Gemini <a name="article-1"></a>
 
 Hey everyone, guess what? Google just unveiled a brand new AI model called Gemini, and it's seriously cool! Think of it as your ultimate sidekick, capable of understanding you in a way no other AI has before.
 
@@ -27,9 +25,8 @@ Hey everyone, guess what? Google just unveiled a brand new AI model called Gemin
 
 ---
 
-<a name="article-2"></a>
 
-## 💡 Create your own VS code Theme and Publish it on Microsoft Marketplace
+## 💡 Create your own VS code Theme and Publish it on Microsoft Marketplace <a name="article-2"></a>
 
 Recently I have created a VS Code Extension called "Sparkling Theme" which can change the look of your VS Code. The theme is also published on Microsoft VS Code Marketplace.
 
@@ -37,9 +34,8 @@ Recently I have created a VS Code Extension called "Sparkling Theme" which can c
 
 ---
 
-<a name="article-3"></a>
 
-## 🔍 Difference between PostgreSQL and MySQL
+## 🔍 Difference between PostgreSQL and MySQL <a name="article-3"></a>
 
 PostGreSQL and MySQL, both being open-source and relational database management systems, have garnered immense popularity and trust within the tech community. While their core purpose remains similar—to efficiently manage and manipulate relational data—they diverge in their approaches, features, and target applications.
 
@@ -47,9 +43,8 @@ PostGreSQL and MySQL, both being open-source and relational database management 
 
 ---
 
-<a name="article-4"></a>
 
-## 💻 Git Essentials for Beginners: A Comprehensive Guide to Git Commands
+## 💻 Git Essentials for Beginners: A Comprehensive Guide to Git Commands <a name="article-4"></a>
 
 Are you new to the world of version control and looking to dive into Git? Congratulations! You're about to embark on a journey that will greatly enhance your ability to collaborate on software projects. In this blog post, we'll cover the essential Git commands every newbie should know to get started with version control like a pro.
 
@@ -57,9 +52,8 @@ Are you new to the world of version control and looking to dive into Git? Congra
 
 ---
 
-<a name="article-5"></a>
 
-## 🌐 Top 5 best CSS frameworks in 2023
+## 🌐 Top 5 best CSS frameworks in 2023 <a name="article-5"></a>
 
 CSS frameworks are pre-prepared libraries that are meant to be used to speed up the process of building websites or web applications. Here are six of the best CSS frameworks.
 
