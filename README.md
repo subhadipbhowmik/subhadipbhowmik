@@ -82,6 +82,6 @@ CSS frameworks are pre-prepared libraries that are meant to be used to speed up 
 
 [![](https://visitcount.itsvg.in/api?id=subhadipbhowmik&icon=8&color=6)](https://visitcount.itsvg.in)
 
-[![Shubhadip Bhowmik](https://github-readme-activity-graph.vercel.app/graph?username=subhadipbhowmik&bg_color=000000&color=ffea00&line=00ebbc&point=2b00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shubhadip Bhowmik](https://github-readme-activity-graph.vercel.app/graph?username=subhadipbhowmik&bg_color=000000&color=ffea00&line=00ebbc&point=2b00ff&area=true&hide_border=true)](https://github.com/subhadipbhowmik)
 
   
