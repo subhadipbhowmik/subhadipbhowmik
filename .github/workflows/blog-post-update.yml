@@ -2,19 +2,19 @@ name: ✍🏽 Blog posts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *" # Runs every hour
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+      - uses: actions/checkout@v2 # v2 version of the checkout action
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rss.app/feeds/v1.1/UcvdE8ScOnYZXn0c.json" # JSON feed
+          feed_list: "https://rss.app/feeds/v1.1/UcvdE8ScOnYZXn0c.json" # Replace with your actual RSS feed URL
           template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,👀,✍🏽,🥳,⚡️) <a target='_blank' href='$url&via=github-profile-readme'>$title</a>"
           max_post_count: 15
-          committer_username: FindingAkash
-          committer_email: bot@akashrajpurohit.com
+          committer_username: subhadipbhowmik
+          committer_email: shubhadipbhowmik02@gmail.com
           commit_message: "docs: :memo: updated blog list"

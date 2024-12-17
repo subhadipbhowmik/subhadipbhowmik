@@ -85,9 +85,9 @@ I am a passionate web developer working on various projects, including SEO tools
 <details>
   <summary><b>📝 Blog Posts</b></summary>
 
-- 🔥 [Understanding React's `useState`](https://shubhadipbhowmik.vercel.app/blog/understanding-react-usestate/?ref=github-profile-readme)
-- 🚀 [How to Manage State with `useState` Hook](https://shubhadipbhowmik.vercel.app/blog/how-to-manage-state-with-usestate/?ref=github-profile-readme)
-- 👨‍💻 [Introduction to JSX and React Components](https://shubhadipbhowmik.vercel.app/blog/introduction-to-jsx-and-react-components/?ref=github-profile-readme)
+  <!-- BLOG-POST-LIST:START -->
+  <!-- This section will be dynamically updated with the latest blog posts -->
+  <!-- BLOG-POST-LIST:END -->
 
 </details>
 
