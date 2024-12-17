@@ -29,7 +29,7 @@ I am a passionate web developer working on various projects, including SEO tools
 - 💬 &nbsp; I write blogs [here](https://shubhadipbhowmik.vercel.app/blog/?ref=github-profile-readme)!
 - 📰 &nbsp; Stay tuned for updates on new tools and tips on my blog.
 - 👾 &nbsp; Fun fact: I enjoy building things that help others in their day-to-day tasks.
-- 📫 &nbsp; How to reach me: subhadipbhowmik@gmail.com
+- 📫 &nbsp; How to reach me: shubhadipbhowmikdev@gmail.com
 
 ### My Absolute Favorites:
 
@@ -59,35 +59,73 @@ I am a passionate web developer working on various projects, including SEO tools
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
-  <table>
-    <thead align="center">
+  <table align="center">
+    <thead>
       <tr>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <th><b>💻 Projects</b></th>
+        <th><b>🌟 Stars</b></th>
+        <th><b>🍴 Forks</b></th>
+        <th><b>🐛 Issues</b></th>
+        <th><b>🔔 Pull Requests</b></th>
+        <th><b>👨‍💻 Language</b></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/subhadipbhowmik/optiseo"><b>🔧 OptiSEO</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadipbhowmik/optiseo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadipbhowmik/optiseo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadipbhowmik/optiseo?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadipbhowmik/optiseo?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/subhadipbhowmik/optiseo?style=flat-square"/></td>
+        <td><a href="https://github.com/subhadipbhowmik/optiseo"><b>🔧 OptiSEO</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadipbhowmik/optiseo?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadipbhowmik/optiseo?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadipbhowmik/optiseo?style=flat-square" /></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadipbhowmik/optiseo?style=flat-square" /></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/subhadipbhowmik/optiseo?style=flat-square" /></td>
       </tr>
+
       <tr>
-	<td><a href="https://github.com/subhadipbhowmik/campuscorners"><b>📍 CampusCorner</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadipbhowmik/campuscorners?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadipbhowmik/campuscorners?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadipbhowmik/campuscorners?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadipbhowmik/campuscorners?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/subhadipbhowmik/campuscorners?style=flat-square"/></td> 
+        <td><a href="https://github.com/subhadipbhowmik/campus-corner"><b>📍 Campus Corner</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadipbhowmik/campus-corner?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadipbhowmik/campus-corner?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadipbhowmik/campus-corner?style=flat-square" /></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadipbhowmik/campus-corner?style=flat-square" /></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/subhadipbhowmik/campus-corner?style=flat-square" /></td>
+      </tr>
+
+      <tr>
+        <td><a href="https://github.com/subhadipbhowmik/bio-branch"><b>🧬 BioBranch</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadipbhowmik/bio-branch?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadipbhowmik/bio-branch?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadipbhowmik/bio-branch?style=flat-square" /></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadipbhowmik/bio-branch?style=flat-square" /></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/subhadipbhowmik/bio-branch?style=flat-square" /></td>
+      </tr>
+
+      <tr>
+        <td><a href="https://github.com/subhadipbhowmik/30-Days-Of-CPP"><b>💻 30 Days of C++</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadipbhowmik/30-Days-Of-CPP?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadipbhowmik/30-Days-Of-CPP?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadipbhowmik/30-Days-Of-CPP?style=flat-square" /></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadipbhowmik/30-Days-Of-CPP?style=flat-square" /></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/subhadipbhowmik/30-Days-Of-CPP?style=flat-square" /></td>
+      </tr>
+
+      <tr>
+        <td><a href="https://github.com/subhadipbhowmik/contento"><b>📑 Contento</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadipbhowmik/contento?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadipbhowmik/contento?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadipbhowmik/contento?style=flat-square" /></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadipbhowmik/contento?style=flat-square" /></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/subhadipbhowmik/contento?style=flat-square" /></td>
+      </tr>
+
+      <tr>
+        <td><a href="https://github.com/subhadipbhowmik/chandigarh-university-calculator"><b>🎓 CU Calculator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/subhadipbhowmik/chandigarh-university-calculator?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/subhadipbhowmik/chandigarh-university-calculator?style=flat-square&labelColor=343b41" /></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/subhadipbhowmik/chandigarh-university-calculator?style=flat-square" /></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/subhadipbhowmik/chandigarh-university-calculator?style=flat-square" /></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/subhadipbhowmik/chandigarh-university-calculator?style=flat-square" /></td>
       </tr>
     </tbody>
+
   </table>
 </details>
 
