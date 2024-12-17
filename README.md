@@ -1,17 +1,18 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Shubhadip Bhowmik — a Web Developer 👨‍💻
+## I'm Shubhadip Bhowmik — Hobbyist Developer & Tinkerer 👨‍💻
 
-[![Website Badge](https://img.shields.io/badge/-OptiSEO.com-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://optiseo.com/?ref=github-profile-readme-badge)
+[![Website Badge](https://img.shields.io/badge/-shubhadipbhowmik-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://shubhadipbhowmik.vercel.app//?ref=github-profile-readme-badge)
 [![Linkedin Badge](https://img.shields.io/badge/-@subhadipbhowmik-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/subhadipbhowmik)
 [![Twitter Badge](https://img.shields.io/twitter/follow/myselfshubhadip)](https://twitter.com/myselfshubhadip)
+[![GitHub Badge](https://img.shields.io/github/followers/subhadipbhowmik?label=Follow&style=social)](https://github.com/subhadipbhowmik)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
+[![Product Hunt Badge](https://img.shields.io/badge/Product%20Hunt-%23DA552F?style=flat&logo=producthunt&logoColor=white)](https://www.producthunt.com/@yourusername)
 ![](https://visitor-badge.laobi.icu/badge?page_id=subhadipbhowmik.visitor-badge&color=0088cc)
 
-<img src="https://raw.githubusercontent.com/subhadipbhowmik/subhadipbhowmik/master/assets/github-snake-dark.svg" />
+![snake](./assets/shubhadip-bhowmik-banner.jpg)
 
 ### Glad to see you here!
 
 I am a passionate web developer working on various projects, including SEO tools, educational platforms, and interactive websites. Currently, I'm diving deep into React, Node.js, and MongoDB to build scalable applications.
-
-<img align="right" alt="Coding Cat" src="./assets/coding.webp" />
 
 ### Talking about Personal Stuffs:
 
@@ -94,6 +95,6 @@ I am a passionate web developer working on various projects, including SEO tools
 <details>
   <summary><b>🐍 Snake Contribution</b></summary>
   
-  ![snake](https://raw.githubusercontent.com/subhadipbhowmik/subhadipbhowmik/output/github-snake.svg)
+![snake](./assets/github-snake.svg)
 
 </details>
