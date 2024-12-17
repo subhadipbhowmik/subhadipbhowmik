@@ -8,13 +8,31 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2 # v2 version of the checkout action
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://rss.app/feeds/v1.1/UcvdE8ScOnYZXn0c.json" # Replace with your actual RSS feed URL
-          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,👀,✍🏽,🥳,⚡️) <a target='_blank' href='$url&via=github-profile-readme'>$title</a>"
-          max_post_count: 15
-          committer_username: subhadipbhowmik
-          committer_email: shubhadipbhowmik02@gmail.com
-          commit_message: "docs: :memo: updated blog list"
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Fetch blog posts from JSON
+        run: |
+          # Get the blog posts in JSON format from the provided URL
+          curl -o blog_posts.json https://rss.app/feeds/v1.1/UcvdE8ScOnYZXn0c.json
+
+      - name: Update README with blog posts
+        run: |
+          POSTS=$(cat blog_posts.json)
+          NEW_CONTENT=""
+          for post in $(echo "$POSTS" | jq -r '.items[] | @base64'); do
+            _jq() {
+              echo ${post} | base64 --decode | jq -r ${1}
+            }
+            TITLE=$(_jq '.title')
+            URL=$(_jq '.url')
+            NEW_CONTENT="$NEW_CONTENT - [$TITLE]($URL)\n"
+          done
+          # Update README.md with the new blog post list
+          sed -i "/<!-- BLOG-POST-LIST:START -->/a $NEW_CONTENT" README.md
+          git config --global user.name "subhadipbhowmik"
+          git config --global user.email "shubhadipbhowmik02@gmail.com"
+          git commit -am "docs: :memo: updated blog list"
+          git push
