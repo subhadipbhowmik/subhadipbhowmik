@@ -455,6 +455,15 @@ I am a passionate web developer working on various projects, including SEO tools
 
 - [Top Best Online Radio Stations for Programmers](https://shubhadipbhowmik.vercel.app/blog/top-best-online-radio-station-for-programmers/)
  - [5 Strategies to Learn Better and Faster as a Software Engineer](https://shubhadipbhowmik.vercel.app/blog/5-strategies-to-learn-better-and-faster-as-a-software-engineer/)
+ - [How to Integrate Cal.com in Next.js: A Complete Guide](https://shubhadipbhowmik.vercel.app/blog/how-to-integrate-cal-com-in-nextjs-complete-guide/)
+ - [20 Tricky Truthy and Falsy Values in JavaScript with Solutions](https://shubhadipbhowmik.vercel.app/blog/20-tricky-javascript-truthy-and-falsy-values-with-solutions-for-beginners-and-advanced-developers/)
+ - [21 Lessons I Learned at 21: Reflections on Growth and Self-Discovery](https://shubhadipbhowmik.vercel.app/blog/21-lessons-at-21-self-discovery-shubhadip-bhowmik/)
+ - [PhonePe Payment Gateway Integration using React, Node, Express](https://shubhadipbhowmik.vercel.app/blog/phonepe-payment-gateway-integration-using-node-js-and-express-js/)
+ - [My Experience at the Dussehra Mela in Chandigarh](https://shubhadipbhowmik.vercel.app/blog/my-dusshera-experience-in-chandigarh/)
+ - [A Thoughtful and Heartfelt Letter to God Filled with Gratitude](https://shubhadipbhowmik.vercel.app/blog/letter-to-god/)
+
+- [Top Best Online Radio Stations for Programmers](https://shubhadipbhowmik.vercel.app/blog/top-best-online-radio-station-for-programmers/)
+ - [5 Strategies to Learn Better and Faster as a Software Engineer](https://shubhadipbhowmik.vercel.app/blog/5-strategies-to-learn-better-and-faster-as-a-software-engineer/)
  - [20 Tricky Truthy and Falsy Values in JavaScript with Solutions](https://shubhadipbhowmik.vercel.app/blog/20-tricky-javascript-truthy-and-falsy-values-with-solutions-for-beginners-and-advanced-developers/)
  - [21 Lessons I Learned at 21: Reflections on Growth and Self-Discovery](https://shubhadipbhowmik.vercel.app/blog/21-lessons-at-21-self-discovery-shubhadip-bhowmik/)
  - [PhonePe Payment Gateway Integration using React, Node, Express](https://shubhadipbhowmik.vercel.app/blog/phonepe-payment-gateway-integration-using-node-js-and-express-js/)
