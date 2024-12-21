@@ -20,6 +20,7 @@ jobs:
 
       - name: Update README with blog posts
         run: |
+          # Extract the blog posts
           POSTS=$(cat blog_posts.json)
           NEW_CONTENT=""
           for post in $(echo "$POSTS" | jq -r '.items[] | @base64'); do
@@ -28,10 +29,13 @@ jobs:
             }
             TITLE=$(_jq '.title')
             URL=$(_jq '.url')
-            NEW_CONTENT="$NEW_CONTENT - [$TITLE]($URL)\n"
+            NEW_CONTENT="$NEW_CONTENT- [$TITLE]($URL)\n"
           done
-          # Update README.md with the new blog post list
-          sed -i "/<!-- BLOG-POST-LIST:START -->/a $NEW_CONTENT" README.md
+
+          # Read the README and clear the old blog list section
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n'"$NEW_CONTENT"'<!-- BLOG-POST-LIST:END -->' README.md
+
+          # Commit and push the changes
           git config --global user.name "subhadipbhowmik"
           git config --global user.email "shubhadipbhowmik02@gmail.com"
           git commit -am "docs: :memo: updated blog list"
