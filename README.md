@@ -75,7 +75,6 @@ I am a passionate web developer working on various projects, including SEO tools
   <summary><b>📝 Blog Posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired.](null)
 <!-- BLOG-POST-LIST:END -->
 
 </details>

@@ -1,42 +1,35 @@
-name: ✍🏽 Blog posts
+name: Update Blog Posts
+
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "0 0 * * 0" # Runs every Sunday at midnight
+  workflow_dispatch: # Manual trigger
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-blog-posts:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Fetch blog posts from JSON
+      - name: Fetch Blog Posts
         run: |
-          # Get the blog posts in JSON format from the provided URL
-          curl -o blog_posts.json https://rss.app/feeds/v1.1/UcvdE8ScOnYZXn0c.json
+          curl -s https://rss.app/feeds/v1.1/UcvdE8ScOnYZXn0c.json \
+            | jq '.items | map({id, url, title, content_text, date_published})' \
+            > blogPosts.json
 
-      - name: Update README with blog posts
+      - name: Update README.md
         run: |
-          # Extract the blog posts
-          POSTS=$(cat blog_posts.json)
-          NEW_CONTENT=""
-          for post in $(echo "$POSTS" | jq -r '.items[] | @base64'); do
-            _jq() {
-              echo ${post} | base64 --decode | jq -r ${1}
-            }
-            TITLE=$(_jq '.title')
-            URL=$(_jq '.url')
-            NEW_CONTENT="$NEW_CONTENT- [$TITLE]($URL)\n"
-          done
+          POSTS=$(jq -r '.[] | "- [\(.title)](\(.url))"' blogPosts.json)
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\\<!-- BLOG-POST-LIST:START -->\n'"$POSTS"'\n<!-- BLOG-POST-LIST:END -->' README.md
 
-          # Read the README and clear the old blog list section
-          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n'"$NEW_CONTENT"'<!-- BLOG-POST-LIST:END -->' README.md
-
-          # Commit and push the changes
-          git config --global user.name "subhadipbhowmik"
-          git config --global user.email "shubhadipbhowmik02@gmail.com"
-          git commit -am "docs: :memo: updated blog list"
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update blog posts"
           git push
