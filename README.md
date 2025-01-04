@@ -1,4 +1,4 @@
-## I'm Shubhadip Bhowmik — Hobbyist Developer & Tinkerer 👨‍💻
+## Shubhadip Bhowmik is a Hobbyist Developer & Tinkerer 👨‍💻
 
 <div align="center">
   <a href="https://shubhadipbhowmik.vercel.app/?ref=github-profile-readme-badge">
@@ -75,6 +75,12 @@ I am a passionate web developer working on various projects, including SEO tools
   <summary><b>📝 Blog Posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
+
+- [Top Best Online Radio Stations for Programmers](https://shubhadipbhowmik.vercel.app/blog/top-best-online-radio-station-for-programmers/)
+- [5 Strategies to Learn Better and Faster as a Software Engineer](https://shubhadipbhowmik.vercel.app/blog/5-strategies-to-learn-better-and-faster-as-a-software-engineer/)
+- [How to Integrate Cal.com in Next.js: A Complete Guide](https://shubhadipbhowmik.vercel.app/blog/how-to-integrate-cal-com-in-nextjs-complete-guide/)
+- [20 Tricky Truthy and Falsy Values in JavaScript with Solutions](https://shubhadipbhowmik.vercel.app/blog/20-tricky-javascript-truthy-and-falsy-values-with-solutions-for-beginners-and-advanced-developers/)
+- [PhonePe Payment Gateway Integration using React, Node, Express](https://shubhadipbhowmik.vercel.app/blog/phonepe-payment-gateway-integration-using-node-js-and-express-js/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
