@@ -25,7 +25,7 @@ I am a passionate web developer working on various projects, including SEO tools
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I'm currently developing with JavaScript, React, and Node.js.
-- 🚀 &nbsp; I’m working on an all-in-one marketplace for university students (CampusCorner).
+- 🚀 &nbsp; I’m working on an all-in-one campus placement platform called HireQuest.
 - 💬 &nbsp; I write blogs [here](https://shubhadipbhowmik.vercel.app/blog/?ref=github-profile-readme)!
 - 📰 &nbsp; Stay tuned for updates on new tools and tips on my blog.
 - 👾 &nbsp; Fun fact: I enjoy building things that help others in their day-to-day tasks.
@@ -35,16 +35,54 @@ I am a passionate web developer working on various projects, including SEO tools
 
 - 💻 &nbsp; I love working with modern web technologies and building scalable web applications.
 - 📰 &nbsp; Writing technical blogs and sharing knowledge with others.
-- 🎧 &nbsp; I enjoy listening to music while coding—check out my [radio station](https://freecodecampradio.com).
 
 ### Languages and Tools:
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express"></code>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
 
 ### Projects and Dev Stuffs:
 
@@ -62,8 +100,7 @@ I am a passionate web developer working on various projects, including SEO tools
 
 | 💻 Projects                                                                             | 🌟 Stars                                                                                                                           | 🍴 Forks                                                                                                                           | 🐛 Issues                                                                                                          | 🔔 Pull Requests                                                                                                             | 👨‍💻 Language                                                                                                                 |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [🔧 OptiSEO](https://github.com/subhadipbhowmik/optiseo)                                | ![Stars](https://img.shields.io/github/stars/subhadipbhowmik/optiseo?style=flat-square&labelColor=343b41)                          | ![Forks](https://img.shields.io/github/forks/subhadipbhowmik/optiseo?style=flat-square&labelColor=343b41)                          | ![Issues](https://img.shields.io/github/issues/subhadipbhowmik/optiseo?style=flat-square)                          | ![Pull Requests](https://img.shields.io/github/issues-pr/subhadipbhowmik/optiseo?style=flat-square)                          | ![Language](https://img.shields.io/github/languages/top/subhadipbhowmik/optiseo?style=flat-square)                          |
-| [📍 Campus Corner](https://github.com/subhadipbhowmik/campus-corner)                    | ![Stars](https://img.shields.io/github/stars/subhadipbhowmik/campus-corner?style=flat-square&labelColor=343b41)                    | ![Forks](https://img.shields.io/github/forks/subhadipbhowmik/campus-corner?style=flat-square&labelColor=343b41)                    | ![Issues](https://img.shields.io/github/issues/subhadipbhowmik/campus-corner?style=flat-square)                    | ![Pull Requests](https://img.shields.io/github/issues-pr/subhadipbhowmik/campus-corner?style=flat-square)                    | ![Language](https://img.shields.io/github/languages/top/subhadipbhowmik/campus-corner?style=flat-square)                    |
+| [🔧 omni-tools](https://github.com/subhadipbhowmik/omni-tools)                          | ![Stars](https://img.shields.io/github/stars/subhadipbhowmik/omni-tools?style=flat-square&labelColor=343b41)                       | ![Forks](https://img.shields.io/github/forks/subhadipbhowmik/omni-tools?style=flat-square&labelColor=343b41)                       | ![Issues](https://img.shields.io/github/issues/subhadipbhowmik/omni-tools?style=flat-square)                       | ![Pull Requests](https://img.shields.io/github/issues-pr/subhadipbhowmik/omni-tools?style=flat-square)                       | ![Language](https://img.shields.io/github/languages/top/subhadipbhowmik/omni-tools?style=flat-square)                       |
 | [🧬 BioBranch](https://github.com/subhadipbhowmik/bio-branch)                           | ![Stars](https://img.shields.io/github/stars/subhadipbhowmik/bio-branch?style=flat-square&labelColor=343b41)                       | ![Forks](https://img.shields.io/github/forks/subhadipbhowmik/bio-branch?style=flat-square&labelColor=343b41)                       | ![Issues](https://img.shields.io/github/issues/subhadipbhowmik/bio-branch?style=flat-square)                       | ![Pull Requests](https://img.shields.io/github/issues-pr/subhadipbhowmik/bio-branch?style=flat-square)                       | ![Language](https://img.shields.io/github/languages/top/subhadipbhowmik/bio-branch?style=flat-square)                       |
 | [💻 30 Days of C++](https://github.com/subhadipbhowmik/30-Days-Of-CPP)                  | ![Stars](https://img.shields.io/github/stars/subhadipbhowmik/30-Days-Of-CPP?style=flat-square&labelColor=343b41)                   | ![Forks](https://img.shields.io/github/forks/subhadipbhowmik/30-Days-Of-CPP?style=flat-square&labelColor=343b41)                   | ![Issues](https://img.shields.io/github/issues/subhadipbhowmik/30-Days-Of-CPP?style=flat-square)                   | ![Pull Requests](https://img.shields.io/github/issues-pr/subhadipbhowmik/30-Days-Of-CPP?style=flat-square)                   | ![Language](https://img.shields.io/github/languages/top/subhadipbhowmik/30-Days-Of-CPP?style=flat-square)                   |
 | [📑 Contento](https://github.com/subhadipbhowmik/contento)                              | ![Stars](https://img.shields.io/github/stars/subhadipbhowmik/contento?style=flat-square&labelColor=343b41)                         | ![Forks](https://img.shields.io/github/forks/subhadipbhowmik/contento?style=flat-square&labelColor=343b41)                         | ![Issues](https://img.shields.io/github/issues/subhadipbhowmik/contento?style=flat-square)                         | ![Pull Requests](https://img.shields.io/github/issues-pr/subhadipbhowmik/contento?style=flat-square)                         | ![Language](https://img.shields.io/github/languages/top/subhadipbhowmik/contento?style=flat-square)                         |
@@ -76,11 +113,22 @@ I am a passionate web developer working on various projects, including SEO tools
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Top Best Online Radio Stations for Programmers](https://shubhadipbhowmik.vercel.app/blog/top-best-online-radio-station-for-programmers/)
+- [The Bias of Heart and Machine: How Bad Data Skews Our Perception](https://shubhadipbhowmik.vercel.app/blog/relationship-bias-ai-bad-data-mindset/)
+- [How to Create a REST API Using Google Sheets and Google Apps Script: A Step-by-Step Guide](https://shubhadipbhowmik.vercel.app/blog/how-to-create-rest-api-using-google-sheet/)
+- [The Future of JavaScript by Ryan Dahl, Node.js Creator](https://shubhadipbhowmik.vercel.app/blog/the-future-of-javascript-according-to-ryan-dahl/)
+- [HireQuest - My Final Year Project in Chandigarh University](https://shubhadipbhowmik.vercel.app/blog/hirequest-interview-tracking-system-final-year-project-shubhadip-bhowmik/)
+- [All About Proxy, Reverse Proxy, and Load Balancer](https://shubhadipbhowmik.vercel.app/blog/proxy-reverse-proxy-load-balancer/)
+- [Top Best Docker Containers in 2025](https://shubhadipbhowmik.vercel.app/blog/top-docker-containers-2025/)
+- [Why I Moved](https://shubhadipbhowmik.vercel.app/blog/why-i-moved-to-chandigarh/)
+- [Letting Go: The Courage to Embrace Freedom](https://shubhadipbhowmik.vercel.app/blog/letting-go-is-not-losing-but-moving-forward/)
 - [5 Strategies to Learn Better and Faster as a Software Engineer](https://shubhadipbhowmik.vercel.app/blog/5-strategies-to-learn-better-and-faster-as-a-software-engineer/)
-- [How to Integrate Cal.com in Next.js: A Complete Guide](https://shubhadipbhowmik.vercel.app/blog/how-to-integrate-cal-com-in-nextjs-complete-guide/)
 - [20 Tricky Truthy and Falsy Values in JavaScript with Solutions](https://shubhadipbhowmik.vercel.app/blog/20-tricky-javascript-truthy-and-falsy-values-with-solutions-for-beginners-and-advanced-developers/)
+- [21 Lessons I Learned at 21: Reflections on Growth and Self-Discovery](https://shubhadipbhowmik.vercel.app/blog/21-lessons-at-21-self-discovery-shubhadip-bhowmik/)
 - [PhonePe Payment Gateway Integration using React, Node, Express](https://shubhadipbhowmik.vercel.app/blog/phonepe-payment-gateway-integration-using-node-js-and-express-js/)
+- [My Experience at the Dussehra Mela in Chandigarh](https://shubhadipbhowmik.vercel.app/blog/my-dusshera-experience-in-chandigarh/)
+- [A Thoughtful and Heartfelt Letter to God Filled with Gratitude](https://shubhadipbhowmik.vercel.app/blog/letter-to-god/)
+- [Top Best Online Radio Stations for Programmers](https://shubhadipbhowmik.vercel.app/blog/top-best-online-radio-station-for-programmers/)
+
 <!-- BLOG-POST-LIST:END -->
 
 </details>
