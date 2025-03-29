@@ -1,4 +1,4 @@
-## Shubhadip Bhowmik is a Hobbyist Developer & Tinkerer 👨‍💻
+## Shubhadip Bhowmik is a Hobbyist Software Developer & Tinkerer 👨‍💻
 
 <div align="center">
   <a href="https://shubhadipbhowmik.vercel.app/?ref=github-profile-readme-badge">
