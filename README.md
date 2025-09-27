@@ -29,7 +29,7 @@ I am a passionate web developer working on various projects, including SEO tools
 - 💬 &nbsp; I write blogs [here](https://shubhadipbhowmik.vercel.app/blog/?ref=github-profile-readme)!
 - 📰 &nbsp; Stay tuned for updates on new tools and tips on my blog.
 - 👾 &nbsp; Fun fact: I enjoy building things that help others in their day-to-day tasks.
-- 📫 &nbsp; How to reach me: shubhadipbhowmikdev@gmail.com
+- 📫 &nbsp; How to reach me: shubhadipbhowmikdev@gmail.com or, shubhadip@codingport.in
 
 ### My Absolute Favorites:
 
